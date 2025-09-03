@@ -1,95 +1,52 @@
-[04:09:15] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[04:09:15] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[04:09:15] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[04:09:15] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[04:09:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:09:22] [ServerMain/INFO]: Loaded 1407 recipes
-[04:09:22] [ServerMain/INFO]: Loaded 1520 advancements
-[04:09:22] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[04:09:23] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 421.4ms
-[04:09:23] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[04:09:23] [Server thread/INFO]: Loading properties
-[04:09:23] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[04:09:23] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[04:09:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:09:23] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:09:24] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[04:09:24] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[04:09:24] [Server thread/INFO]: Default game type: SURVIVAL
-[04:09:24] [Server thread/INFO]: Generating keypair
-[04:09:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:09:24] [Server thread/INFO]: Using epoll channel type
-[04:09:24] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[04:09:24] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[04:09:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:09:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:09:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:09:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:09:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:09:24] [Server thread/INFO]: Preparing level "world"
-[04:09:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:09:25] [Server thread/INFO]: Preparing spawn area: 0%
-[04:09:26] [Server thread/INFO]: Preparing spawn area: 0%
-[04:09:26] [Server thread/INFO]: Time elapsed: 966 ms
-[04:09:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[04:09:26] [Server thread/INFO]: Preparing spawn area: 0%
-[04:09:26] [Server thread/INFO]: Time elapsed: 309 ms
-[04:09:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[04:09:26] [Server thread/INFO]: Preparing spawn area: 0%
-[04:09:26] [Server thread/INFO]: Time elapsed: 171 ms
-[04:09:26] [Server thread/INFO]: [spark] Starting background profiler...
-[04:09:27] [Server thread/INFO]: Done preparing level "world" (2.952s)
-[04:09:27] [Server thread/INFO]: Running delayed init tasks
-[04:09:27] [Server thread/INFO]: Done (14.298s)! For help, type "help"
-[04:09:40] [User Authenticator #0/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
-[04:09:41] [Server thread/INFO]: Estebanjmc_10 joined the game
-[04:09:41] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:34055] logged in with entity id 91 at ([world]-55.15854633976612, 77.0, 27.461925712959058)
-[04:17:06] [User Authenticator #1/INFO]: UUID of player ByReD888 is f4d44c16-0209-3600-b2df-940343d9dd81
-[04:17:07] [Server thread/INFO]: ByReD888 joined the game
-[04:17:07] [Server thread/INFO]: ByReD888[/127.89.118.17:60757] logged in with entity id 1135 at ([world]-55.5, 78.0, 13.5)
-[04:19:43] [Server thread/INFO]: ByReD888 has made the advancement [Monster Hunter]
-[04:21:30] [Server thread/INFO]: ByReD888 has made the advancement [Stone Age]
-[04:23:07] [Server thread/INFO]: ByReD888 has made the advancement [Getting an Upgrade]
-[04:24:54] [Server thread/INFO]: ByReD888 fell from a high place
-[04:26:05] [Server thread/INFO]: Estebanjmc_10 has made the advancement [Stone Age]
-[04:27:29] [Server thread/INFO]: ByReD888 issued server command: /tp
-[04:27:53] [Async Chat Thread - #0/INFO]: [Not Secure] <ByReD888> veniiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-[04:28:06] [Async Chat Thread - #0/INFO]: [Not Secure] <Estebanjmc_10> vooooooy
-[04:28:19] [Server thread/INFO]: Estebanjmc_10 has made the advancement [Getting an Upgrade]
-[04:29:35] [Async Chat Thread - #2/INFO]: [Not Secure] <ByReD888> dañel
-[04:29:38] [Async Chat Thread - #2/INFO]: [Not Secure] <ByReD888> daleeeeeeeeeeeeeee
-[04:29:58] [Server thread/INFO]: ByReD888 issued server command: /77 tppppppppppppp
-[04:30:01] [Async Chat Thread - #2/INFO]: [Not Secure] <ByReD888> p4
-[04:30:03] [Async Chat Thread - #2/INFO]: [Not Secure] <ByReD888> tp
-[04:31:52] [Server thread/INFO]: ByReD888 was doomed to fall by Estebanjmc_10
-[04:33:48] [Server thread/INFO]: ByReD888 was doomed to fall by Creeper
-[04:34:28] [Server thread/INFO]: Estebanjmc_10 was doomed to fall by Zombie
-[04:38:40] [Server thread/INFO]: Estebanjmc_10 was slain by Zombie
-[04:41:34] [Server thread/INFO]: ByReD888 has made the advancement [Acquire Hardware]
-[04:41:38] [Server thread/INFO]: ByReD888 has made the advancement [Isn't It Iron Pick]
-[04:41:43] [Server thread/INFO]: ByReD888 has made the advancement [Diamonds!]
-[04:43:41] [Server thread/INFO]: ByReD888 has made the advancement [Suit Up]
-[04:46:26] [Server thread/INFO]: Estebanjmc_10 has made the advancement [Monster Hunter]
-[04:46:34] [Server thread/INFO]: Estebanjmc_10 has made the advancement [Acquire Hardware]
-[04:46:51] [Server thread/INFO]: Estebanjmc_10 has made the advancement [Suit Up]
-[04:47:55] [Server thread/INFO]: Estebanjmc_10 was shot by Skeleton
-[04:50:22] [Server thread/INFO]: ByReD888 has made the advancement [Not Today, Thank You]
-[05:07:24] [Server thread/INFO]: Estebanjmc_10 has made the advancement [Isn't It Iron Pick]
-[05:07:51] [Server thread/INFO]: Estebanjmc_10 has made the advancement [Diamonds!]
-[05:12:58] [Server thread/INFO]: Estebanjmc_10 lost connection: Timed out
-[05:12:58] [Server thread/INFO]: Estebanjmc_10 left the game
-[05:13:13] [User Authenticator #2/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
-[05:13:14] [Server thread/INFO]: Estebanjmc_10 joined the game
-[05:13:14] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:53999] logged in with entity id 14825 at ([world]-74.4059522662048, 7.0, -475.3112709635)
-[05:18:19] [Server thread/INFO]: Estebanjmc_10 has made the advancement [Not Today, Thank You]
-[05:28:56] [Server thread/INFO]: Estebanjmc_10 was slain by Zombie
-[05:32:27] [Server thread/INFO]: Estebanjmc_10 was slain by Zombie
-[05:32:34] [Server thread/INFO]: ByReD888 lost connection: Disconnected
-[05:32:34] [Server thread/INFO]: ByReD888 left the game
-[05:32:36] [Server thread/INFO]: Estebanjmc_10 lost connection: Disconnected
-[05:32:36] [Server thread/INFO]: Estebanjmc_10 left the game
-[06:52:00] [User Authenticator #3/INFO]: UUID of player Omega___PANARIN is dc004809-52c1-3101-b432-5fe7862d6fc1
-[06:52:01] [Server thread/INFO]: Omega___PANARIN joined the game
-[06:52:01] [Server thread/INFO]: Omega___PANARIN[/127.72.95.35:49647] logged in with entity id 24427 at ([world]-59.5, 79.0, 12.5)
-[06:52:06] [Server thread/INFO]: Omega___PANARIN lost connection: Disconnected
-[06:52:06] [Server thread/INFO]: Omega___PANARIN left the game
+[05:13:04] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[05:13:04] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[05:13:04] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[05:13:04] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[05:13:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:13:12] [ServerMain/INFO]: Loaded 1407 recipes
+[05:13:12] [ServerMain/INFO]: Loaded 1520 advancements
+[05:13:12] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[05:13:12] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 466.5ms
+[05:13:13] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[05:13:13] [Server thread/INFO]: Loading properties
+[05:13:13] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[05:13:13] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[05:13:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:13:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:13:14] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[05:13:14] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[05:13:14] [Server thread/INFO]: Default game type: SURVIVAL
+[05:13:14] [Server thread/INFO]: Generating keypair
+[05:13:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:13:14] [Server thread/INFO]: Using epoll channel type
+[05:13:14] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:13:14] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[05:13:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:13:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:13:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:13:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:13:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:13:14] [Server thread/INFO]: Preparing level "world"
+[05:13:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:16] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:16] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:16] [Server thread/INFO]: Time elapsed: 1059 ms
+[05:13:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:13:16] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:16] [Server thread/INFO]: Time elapsed: 274 ms
+[05:13:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:13:16] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:16] [Server thread/INFO]: Time elapsed: 164 ms
+[05:13:16] [Server thread/INFO]: [spark] Starting background profiler...
+[05:13:17] [Server thread/INFO]: Done preparing level "world" (2.484s)
+[05:13:17] [Server thread/INFO]: Running delayed init tasks
+[05:13:17] [Server thread/INFO]: Done (13.659s)! For help, type "help"
+[05:13:23] [User Authenticator #0/INFO]: UUID of player ByReD888 is f4d44c16-0209-3600-b2df-940343d9dd81
+[05:13:24] [Server thread/INFO]: ByReD888 joined the game
+[05:13:24] [Server thread/INFO]: ByReD888[/127.89.118.17:46837] logged in with entity id 119 at ([world]927.1405049666625, 65.0, -1067.300000011921)
+[05:13:27] [User Authenticator #0/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[05:13:28] [Server thread/INFO]: Estebanjmc_10 joined the game
+[05:13:28] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:60517] logged in with entity id 312 at ([world]-118.87471556658403, -3.0, -364.09465196046557)
+[05:15:33] [Server thread/INFO]: ByReD888 has made the advancement [Hot Stuff]
+[05:20:20] [Server thread/INFO]: ByReD888 has made the advancement [What a Deal!]
