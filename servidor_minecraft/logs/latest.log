@@ -46,3 +46,22 @@
 [18:30:07] [User Authenticator #0/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
 [18:30:08] [Server thread/INFO]: Estebanjmc_10 joined the game
 [18:30:08] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:49761] logged in with entity id 71 at ([world]124.69999998807907, 12.0, -103.03986066431581)
+[18:40:50] [Server thread/INFO]: Estebanjmc_10 lost connection: Disconnected
+[18:40:50] [Server thread/INFO]: Estebanjmc_10 left the game
+[18:40:57] [User Authenticator #1/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[18:40:58] [Server thread/INFO]: Estebanjmc_10 joined the game
+[18:40:58] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:46323] logged in with entity id 2009 at ([world]67.50844120017916, 90.9375, -444.3855085391592)
+[18:43:28] [User Authenticator #2/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
+[18:43:30] [Server thread/INFO]: Jaairoo09 joined the game
+[18:43:30] [Server thread/INFO]: Jaairoo09[/127.65.166.68:37877] logged in with entity id 2346 at ([world]77.97199875267246, 93.0, -469.5862363858675)
+[18:44:11] [Async Chat Thread - #0/INFO]: [Not Secure] <Jaairoo09> tenes mechero
+[18:45:30] [Async Chat Thread - #1/INFO]: [Not Secure] <Jaairoo09> JAJAJAJJA
+[18:46:31] [Async Chat Thread - #4/INFO]: [Not Secure] <Jaairoo09> me voy a ir a lo de mi nmovia
+[18:46:39] [Async Chat Thread - #4/INFO]: [Not Secure] <Jaairoo09> seguro ahi sigo jugando jaja
+[18:47:09] [Server thread/INFO]: Estebanjmc_10 lost connection: Timed out
+[18:47:09] [Server thread/INFO]: Estebanjmc_10 left the game
+[18:47:57] [Server thread/INFO]: Jaairoo09 lost connection: Disconnected
+[18:47:57] [Server thread/INFO]: Jaairoo09 left the game
+[18:48:00] [User Authenticator #3/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[18:48:01] [Server thread/INFO]: Estebanjmc_10 joined the game
+[18:48:01] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:56833] logged in with entity id 2859 at ([world]73.78322110153326, 91.0, -466.75631017955175)
