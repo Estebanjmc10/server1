@@ -132,3 +132,9 @@
 [15:10:22] [User Authenticator #6/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
 [15:10:24] [Server thread/INFO]: Jaairoo09 joined the game
 [15:10:24] [Server thread/INFO]: Jaairoo09[/127.65.166.68:43577] logged in with entity id 10214 at ([world]64.52716337122311, 22.0, 22.472744068360708)
+[15:24:47] [Server thread/INFO]: Jaairoo09 lost connection: Disconnected
+[15:24:47] [Server thread/INFO]: Jaairoo09 left the game
+[15:24:57] [User Authenticator #7/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
+[15:24:58] [Server thread/INFO]: Jaairoo09 joined the game
+[15:24:58] [Server thread/INFO]: Jaairoo09[/127.65.166.68:33963] logged in with entity id 11905 at ([world]184.8970139538602, 63.0, -57.19447087631278)
+[15:28:51] [Server thread/INFO]: Jaairoo09 drowned
