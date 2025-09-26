@@ -72,3 +72,7 @@
 [18:17:53] [Server thread/INFO]: Estebanjmc_10 lost connection: Disconnected
 [18:17:53] [Server thread/INFO]: Estebanjmc_10 left the game
 [18:26:31] [Server thread/INFO]: Villager Villager['Farmer'/559, uuid='c1589afd-505b-4fce-9f14-4bd3cef5bcab', l='ServerLevel[world]', x=61.94, y=87.19, z=-481.16, cpos=[3, -31], tl=59478, v=true] died, message: 'Farmer was slain by Jaairoo09'
+[18:34:01] [Server thread/INFO]: Jaairoo09 has made the advancement [What a Deal!]
+[18:41:37] [User Authenticator #4/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[18:41:39] [Server thread/INFO]: Estebanjmc_10 joined the game
+[18:41:39] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:40981] logged in with entity id 10375 at ([world]53.37120008562752, 87.0, -471.38000494003614)
