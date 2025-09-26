@@ -64,3 +64,8 @@
 [17:51:56] [User Authenticator #2/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
 [17:51:57] [Server thread/INFO]: Estebanjmc_10 joined the game
 [17:51:57] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:59661] logged in with entity id 2609 at ([world]75.50253540118969, 90.9375, -462.6835236904198)
+[18:02:58] [Server thread/INFO]: Estebanjmc_10 lost connection: Disconnected
+[18:02:58] [Server thread/INFO]: Estebanjmc_10 left the game
+[18:03:04] [User Authenticator #3/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[18:03:05] [Server thread/INFO]: Estebanjmc_10 joined the game
+[18:03:05] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:55849] logged in with entity id 4259 at ([world]91.07645633977693, 87.0, -455.4526858730561)
