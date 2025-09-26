@@ -181,3 +181,10 @@
 [21:55:50] [Server thread/INFO]: Jaairoo09[/127.65.166.68:55357] logged in with entity id 33674 at ([world]90.30170986935472, 87.0, -459.4070959821327)
 [21:57:58] [Server thread/INFO]: Jaairoo09 lost connection: Disconnected
 [21:57:58] [Server thread/INFO]: Jaairoo09 left the game
+[22:07:04] [User Authenticator #14/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
+[22:07:08] [Server thread/INFO]: Jaairoo09 joined the game
+[22:07:08] [Server thread/INFO]: Jaairoo09[/127.65.166.68:35609] logged in with entity id 34057 at ([world]92.69999998807907, 87.0, -460.93007845471493)
+[22:07:36] [Server thread/INFO]: Villager Villager['Librarian'/34077, uuid='5f1b03ae-b561-4ed0-bbf2-6546d998ce1e', l='ServerLevel[world]', x=94.30, y=87.00, z=-460.50, cpos=[5, -29], tl=547, v=true] died, message: 'Librarian was blown up by Creeper'
+[22:09:25] [Server thread/INFO]: Villager Villager['Villager'/33628, uuid='3c92fd33-cd23-4025-8b6a-481d94b0be27', l='ServerLevel[world_nether]', x=24.46, y=43.00, z=-62.50, cpos=[1, -4], tl=620, v=true] died, message: 'Villager was slain by Zombie'
+[22:10:00] [Server thread/INFO]: Jaairoo09 lost connection: Disconnected
+[22:10:00] [Server thread/INFO]: Jaairoo09 left the game
