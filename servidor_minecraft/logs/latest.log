@@ -155,3 +155,22 @@
 [20:46:54] [Server thread/INFO]: Jaairoo09[/127.65.166.68:34693] logged in with entity id 30485 at ([world]54.861392764761426, 87.78947876269956, -475.629186111191)
 [20:47:06] [Server thread/WARN]: Jaairoo09 moved too quickly! 12.754832871026963,-0.43152384527073195,3.1534226168406008
 [20:47:21] [Async Chat Thread - #22/INFO]: [Not Secure] <Jaairoo09> dormi
+[20:55:49] [Async Chat Thread - #24/INFO]: [Not Secure] <Estebanjmc_10> me retiroo
+[20:56:00] [Server thread/INFO]: Estebanjmc_10 lost connection: Disconnected
+[20:56:00] [Server thread/INFO]: Estebanjmc_10 left the game
+[21:00:04] [Server thread/INFO]: Jaairoo09 was kicked due to keepalive timeout!
+[21:00:04] [Server thread/INFO]: Jaairoo09 lost connection: Timed out
+[21:00:04] [Server thread/INFO]: Jaairoo09 left the game
+[21:00:40] [User Authenticator #11/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
+[21:00:42] [Server thread/INFO]: Jaairoo09 joined the game
+[21:00:42] [Server thread/INFO]: Jaairoo09[/127.65.166.68:36353] logged in with entity id 32227 at ([world]38.05712553148206, 85.63040827256728, -478.69999998807907)
+[21:01:31] [User Authenticator #11/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
+[21:01:31] [Server thread/INFO]: Jaairoo09 lost connection: You logged in from another location
+[21:01:31] [Server thread/INFO]: Jaairoo09 left the game
+[21:01:32] [Server thread/INFO]: Jaairoo09 joined the game
+[21:01:32] [Server thread/INFO]: Jaairoo09[/127.65.166.68:59205] logged in with entity id 32514 at ([world]34.69718795661212, 83.5625, -477.25373318477585)
+[21:03:00] [Server thread/INFO]: Jaairoo09 lost connection: Disconnected
+[21:03:00] [Server thread/INFO]: Jaairoo09 left the game
+[21:03:14] [User Authenticator #12/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
+[21:03:15] [Server thread/INFO]: Jaairoo09 joined the game
+[21:03:15] [Server thread/INFO]: Jaairoo09[/127.65.166.68:57357] logged in with entity id 32784 at ([world]92.54762340519238, 87.0, -460.23379578071933)
