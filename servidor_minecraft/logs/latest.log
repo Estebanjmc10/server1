@@ -71,3 +71,4 @@
 [18:03:05] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:55849] logged in with entity id 4259 at ([world]91.07645633977693, 87.0, -455.4526858730561)
 [18:17:53] [Server thread/INFO]: Estebanjmc_10 lost connection: Disconnected
 [18:17:53] [Server thread/INFO]: Estebanjmc_10 left the game
+[18:26:31] [Server thread/INFO]: Villager Villager['Farmer'/559, uuid='c1589afd-505b-4fce-9f14-4bd3cef5bcab', l='ServerLevel[world]', x=61.94, y=87.19, z=-481.16, cpos=[3, -31], tl=59478, v=true] died, message: 'Farmer was slain by Jaairoo09'
