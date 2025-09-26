@@ -78,3 +78,5 @@
 [18:41:39] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:40981] logged in with entity id 10375 at ([world]53.37120008562752, 87.0, -471.38000494003614)
 [18:46:23] [Server thread/INFO]: Villager Villager['Villager'/568, uuid='b6474942-ebaa-4f27-a878-676fb2ca3bc6', l='ServerLevel[world]', x=96.50, y=88.00, z=-467.28, cpos=[6, -30], tl=83320, v=true] died, message: 'Villager froze to death'
 [18:47:19] [Server thread/INFO]: Villager Villager['Cleric'/575, uuid='b82b8e03-1f5d-47e6-8fe5-41a042ee54c5', l='ServerLevel[world]', x=94.30, y=87.05, z=-452.50, cpos=[5, -29], tl=84436, v=true] died, message: 'Cleric drowned'
+[18:55:02] [Server thread/INFO]: Estebanjmc_10 has made the advancement [What a Deal!]
+[19:00:58] [Server thread/INFO]: Jaairoo09 has made the advancement [Cover Me with Diamonds]
