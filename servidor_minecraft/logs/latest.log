@@ -1,190 +1,50 @@
-[17:32:11] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[17:32:11] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[17:32:11] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[17:32:11] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[17:32:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:32:20] [ServerMain/INFO]: Loaded 1407 recipes
-[17:32:20] [ServerMain/INFO]: Loaded 1520 advancements
-[17:32:20] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[17:32:21] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 441.7ms
-[17:32:21] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[17:32:21] [Server thread/INFO]: Loading properties
-[17:32:21] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[17:32:21] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[17:32:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:32:21] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:32:22] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[17:32:22] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[17:32:22] [Server thread/INFO]: Default game type: SURVIVAL
-[17:32:22] [Server thread/INFO]: Generating keypair
-[17:32:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:32:22] [Server thread/INFO]: Using epoll channel type
-[17:32:22] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[17:32:22] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[17:32:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:32:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:32:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:32:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:32:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:32:22] [Server thread/INFO]: Preparing level "world"
-[17:32:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:32:23] [Server thread/INFO]: Preparing spawn area: 0%
-[17:32:23] [Server thread/INFO]: Preparing spawn area: 12%
-[17:32:24] [Server thread/INFO]: Preparing spawn area: 12%
-[17:32:24] [Server thread/INFO]: Time elapsed: 1155 ms
-[17:32:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:32:24] [Server thread/INFO]: Preparing spawn area: 0%
-[17:32:25] [Server thread/INFO]: Preparing spawn area: 87%
-[17:32:25] [Server thread/INFO]: Time elapsed: 697 ms
-[17:32:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:32:25] [Server thread/INFO]: Preparing spawn area: 0%
-[17:32:25] [Server thread/INFO]: Time elapsed: 94 ms
-[17:32:25] [Server thread/INFO]: [spark] Starting background profiler...
-[17:32:26] [Server thread/INFO]: Done preparing level "world" (4.030s)
-[17:32:26] [Server thread/INFO]: Running delayed init tasks
-[17:32:26] [Server thread/INFO]: Done (17.221s)! For help, type "help"
-[17:33:35] [User Authenticator #0/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
-[17:33:39] [Server thread/INFO]: Jaairoo09 joined the game
-[17:33:39] [Server thread/INFO]: Jaairoo09[/127.65.166.68:45687] logged in with entity id 64 at ([world]57.68592734034066, 87.0, -466.824452561249)
-[17:36:01] [Server thread/WARN]: Jaairoo09 moved too quickly! -3.2041364170917674,1.380023674395531,9.546019493971755
-[17:36:21] [Server thread/WARN]: Jaairoo09 was kicked for floating too long!
-[17:36:21] [Server thread/INFO]: Jaairoo09 lost connection: Flying is not enabled on this server
-[17:36:21] [Server thread/INFO]: Jaairoo09 left the game
-[17:36:55] [User Authenticator #1/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
-[17:36:57] [Server thread/INFO]: Jaairoo09 joined the game
-[17:36:57] [Server thread/INFO]: Jaairoo09[/127.65.166.68:52105] logged in with entity id 557 at ([world]54.52395092670422, 87.16819097901245, -472.84801254097437)
-[17:37:28] [User Authenticator #1/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
-[17:37:30] [Server thread/INFO]: Estebanjmc_10 joined the game
-[17:37:30] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:57325] logged in with entity id 821 at ([world]66.71217774066618, 91.0, -465.30000001192093)
-[17:37:55] [Async Chat Thread - #0/INFO]: [Not Secure] <Estebanjmc_10> disc
-[17:38:00] [Async Chat Thread - #0/INFO]: [Not Secure] <Jaairoo09> voy
-[17:47:03] [Server thread/INFO]: Estebanjmc_10 has made the advancement [Sweet Dreams]
-[17:51:51] [Server thread/INFO]: Estebanjmc_10 lost connection: Disconnected
-[17:51:51] [Server thread/INFO]: Estebanjmc_10 left the game
-[17:51:56] [User Authenticator #2/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
-[17:51:57] [Server thread/INFO]: Estebanjmc_10 joined the game
-[17:51:57] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:59661] logged in with entity id 2609 at ([world]75.50253540118969, 90.9375, -462.6835236904198)
-[18:02:58] [Server thread/INFO]: Estebanjmc_10 lost connection: Disconnected
-[18:02:58] [Server thread/INFO]: Estebanjmc_10 left the game
-[18:03:04] [User Authenticator #3/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
-[18:03:05] [Server thread/INFO]: Estebanjmc_10 joined the game
-[18:03:05] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:55849] logged in with entity id 4259 at ([world]91.07645633977693, 87.0, -455.4526858730561)
-[18:17:53] [Server thread/INFO]: Estebanjmc_10 lost connection: Disconnected
-[18:17:53] [Server thread/INFO]: Estebanjmc_10 left the game
-[18:26:31] [Server thread/INFO]: Villager Villager['Farmer'/559, uuid='c1589afd-505b-4fce-9f14-4bd3cef5bcab', l='ServerLevel[world]', x=61.94, y=87.19, z=-481.16, cpos=[3, -31], tl=59478, v=true] died, message: 'Farmer was slain by Jaairoo09'
-[18:34:01] [Server thread/INFO]: Jaairoo09 has made the advancement [What a Deal!]
-[18:41:37] [User Authenticator #4/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
-[18:41:39] [Server thread/INFO]: Estebanjmc_10 joined the game
-[18:41:39] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:40981] logged in with entity id 10375 at ([world]53.37120008562752, 87.0, -471.38000494003614)
-[18:46:23] [Server thread/INFO]: Villager Villager['Villager'/568, uuid='b6474942-ebaa-4f27-a878-676fb2ca3bc6', l='ServerLevel[world]', x=96.50, y=88.00, z=-467.28, cpos=[6, -30], tl=83320, v=true] died, message: 'Villager froze to death'
-[18:47:19] [Server thread/INFO]: Villager Villager['Cleric'/575, uuid='b82b8e03-1f5d-47e6-8fe5-41a042ee54c5', l='ServerLevel[world]', x=94.30, y=87.05, z=-452.50, cpos=[5, -29], tl=84436, v=true] died, message: 'Cleric drowned'
-[18:55:02] [Server thread/INFO]: Estebanjmc_10 has made the advancement [What a Deal!]
-[19:00:58] [Server thread/INFO]: Jaairoo09 has made the advancement [Cover Me with Diamonds]
-[19:14:30] [Server thread/INFO]: Jaairoo09 has made the advancement [Diamonds!]
-[19:14:40] [Server thread/INFO]: Estebanjmc_10 has made the advancement [Cover Me with Diamonds]
-[19:31:53] [Server thread/INFO]: Estebanjmc_10 lost connection: Timed out
-[19:31:53] [Server thread/INFO]: Estebanjmc_10 left the game
-[19:34:21] [User Authenticator #5/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
-[19:34:22] [Server thread/INFO]: Estebanjmc_10 joined the game
-[19:34:22] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:40917] logged in with entity id 17687 at ([world]57.64692445037131, 106.0, -463.6060508962605)
-[19:38:07] [Async Chat Thread - #2/INFO]: [Not Secure] <Estebanjmc_10> VISTE
-[19:38:11] [Async Chat Thread - #2/INFO]: [Not Secure] <Jaairoo09> AJAJJAJA
-[19:39:38] [Async Chat Thread - #4/INFO]: [Not Secure] <Estebanjmc_10> busca
-[19:41:35] [Server thread/INFO]: Jaairoo09 has made the advancement [Sneak 100]
-[19:43:11] [Async Chat Thread - #6/INFO]: [Not Secure] <Estebanjmc_10> 58 -467
-[19:44:00] [Async Chat Thread - #6/INFO]: [Not Secure] <Estebanjmc_10> weeee como no va a querer ir a tu casa
-[19:44:08] [Async Chat Thread - #6/INFO]: [Not Secure] <Estebanjmc_10> que putooooo
-[19:44:23] [Async Chat Thread - #6/INFO]: [Not Secure] <Estebanjmc_10> troloooooo
-[19:44:40] [Async Chat Thread - #6/INFO]: [Not Secure] <Jaairoo09> AJJAJAJ
-[19:48:58] [Server thread/INFO]: Jaairoo09 has made the advancement [Ice Bucket Challenge]
-[19:49:03] [Async Chat Thread - #8/INFO]: [Not Secure] <Estebanjmc_10> ya vengo banca
-[19:49:06] [Async Chat Thread - #8/INFO]: [Not Secure] <Jaairoo09> ok
-[19:49:09] [Async Chat Thread - #8/INFO]: [Not Secure] <Jaairoo09> acaba rapido
-[19:49:23] [Server thread/INFO]: Estebanjmc_10 lost connection: Disconnected
-[19:49:23] [Server thread/INFO]: Estebanjmc_10 left the game
-[19:55:04] [Server thread/WARN]: Jaairoo09 moved wrongly!
-[20:11:48] [Server thread/INFO]: Jaairoo09 has made the advancement [Best Friends Forever]
-[20:18:44] [Server thread/WARN]: Jaairoo09 moved too quickly! 10.713009506150826,-0.4990033597325265,3.2566124008363886
-[20:24:27] [User Authenticator #6/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
-[20:24:29] [Server thread/INFO]: Estebanjmc_10 joined the game
-[20:24:29] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:43245] logged in with entity id 27376 at ([world]92.43308113637421, 87.0, -454.5011959197482)
-[20:24:42] [Async Chat Thread - #10/INFO]: [Not Secure] <Estebanjmc_10> sospecha que no te aburris
-[20:24:47] [Async Chat Thread - #10/INFO]: [Not Secure] <Jaairoo09> JAAJJA
-[20:24:58] [Async Chat Thread - #10/INFO]: [Not Secure] <Estebanjmc_10> sofi dice que te vayas a la escuela
-[20:25:07] [Async Chat Thread - #10/INFO]: [Not Secure] <Jaairoo09> hoy no tuve clases
-[20:27:24] [Async Chat Thread - #12/INFO]: [Not Secure] <Estebanjmc_10> y la otra esta jugando roba un brainrot
-[20:28:30] [Async Chat Thread - #14/INFO]: [Not Secure] <Jaairoo09> KAKKAKA
-[20:28:31] [Async Chat Thread - #14/INFO]: [Not Secure] <Jaairoo09> no
-[20:28:37] [Async Chat Thread - #14/INFO]: [Not Secure] <Jaairoo09> otro juego choto
-[20:28:45] [Async Chat Thread - #14/INFO]: [Not Secure] <Estebanjmc_10> jajajajja
-[20:29:03] [Async Chat Thread - #14/INFO]: [Not Secure] <Jaairoo09> toma
-[20:29:32] [Server thread/INFO]: Estebanjmc_10 has made the advancement [Diamonds!]
-[20:29:48] [Async Chat Thread - #14/INFO]: [Not Secure] <Estebanjmc_10> por?
-[20:30:01] [Async Chat Thread - #14/INFO]: [Not Secure] <Jaairoo09> para tus herramientas
-[20:31:07] [Async Chat Thread - #16/INFO]: [Not Secure] <Estebanjmc_10> hdp
-[20:34:51] [Async Chat Thread - #18/INFO]: [Not Secure] <Jaairoo09> qpaso
-[20:34:57] [Async Chat Thread - #18/INFO]: [Not Secure] <Estebanjmc_10> con
-[20:35:24] [Async Chat Thread - #18/INFO]: [Not Secure] <Jaairoo09> hago el portal
-[20:35:26] [Async Chat Thread - #18/INFO]: [Not Secure] <Jaairoo09> ??
-[20:36:03] [Async Chat Thread - #18/INFO]: [Not Secure] <Estebanjmc_10> hace
-[20:38:47] [Server thread/WARN]: Jaairoo09 moved too quickly! 10.278282702361501,-1.1661092609382138,7.604929864729513
-[20:39:06] [Server thread/INFO]: Jaairoo09 was kicked due to keepalive timeout!
-[20:39:06] [Server thread/INFO]: Jaairoo09 lost connection: Timed out
-[20:39:06] [Server thread/INFO]: Jaairoo09 left the game
-[20:40:17] [User Authenticator #7/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
-[20:40:19] [Server thread/INFO]: Jaairoo09 joined the game
-[20:40:19] [Server thread/INFO]: Jaairoo09[/127.65.166.68:41707] logged in with entity id 29634 at ([world]73.81565086533024, 87.0, -464.3343598541568)
-[20:40:34] [Async Chat Thread - #20/INFO]: [Not Secure] <Jaairoo09> JAJAJJAAJJA
-[20:40:46] [Server thread/WARN]: Jaairoo09 moved too quickly! -11.162653101687496,0.43152384527073195,8.389546150212595
-[20:44:30] [User Authenticator #8/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
-[20:44:30] [Server thread/INFO]: Jaairoo09 lost connection: You logged in from another location
-[20:44:30] [Server thread/INFO]: Jaairoo09 left the game
-[20:44:31] [Server thread/INFO]: Jaairoo09 joined the game
-[20:44:31] [Server thread/INFO]: Jaairoo09[/127.65.166.68:60287] logged in with entity id 30143 at ([world]44.01571673690043, 87.59175027355549, -475.21983805586063)
-[20:45:35] [Server thread/WARN]: Jaairoo09 was kicked for floating too long!
-[20:45:35] [Server thread/INFO]: Jaairoo09 lost connection: Flying is not enabled on this server
-[20:45:35] [Server thread/INFO]: Jaairoo09 left the game
-[20:45:44] [User Authenticator #9/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
-[20:45:45] [Server thread/INFO]: Jaairoo09 joined the game
-[20:45:45] [Server thread/INFO]: Jaairoo09[/127.65.166.68:54345] logged in with entity id 30331 at ([world]48.70848265039636, 87.84610397459554, -476.2998515639259)
-[20:46:05] [Server thread/WARN]: Jaairoo09 was kicked for floating too long!
-[20:46:05] [Server thread/INFO]: Jaairoo09 lost connection: Flying is not enabled on this server
-[20:46:05] [Server thread/INFO]: Jaairoo09 left the game
-[20:46:53] [User Authenticator #10/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
-[20:46:54] [Server thread/INFO]: Jaairoo09 joined the game
-[20:46:54] [Server thread/INFO]: Jaairoo09[/127.65.166.68:34693] logged in with entity id 30485 at ([world]54.861392764761426, 87.78947876269956, -475.629186111191)
-[20:47:06] [Server thread/WARN]: Jaairoo09 moved too quickly! 12.754832871026963,-0.43152384527073195,3.1534226168406008
-[20:47:21] [Async Chat Thread - #22/INFO]: [Not Secure] <Jaairoo09> dormi
-[20:55:49] [Async Chat Thread - #24/INFO]: [Not Secure] <Estebanjmc_10> me retiroo
-[20:56:00] [Server thread/INFO]: Estebanjmc_10 lost connection: Disconnected
-[20:56:00] [Server thread/INFO]: Estebanjmc_10 left the game
-[21:00:04] [Server thread/INFO]: Jaairoo09 was kicked due to keepalive timeout!
-[21:00:04] [Server thread/INFO]: Jaairoo09 lost connection: Timed out
-[21:00:04] [Server thread/INFO]: Jaairoo09 left the game
-[21:00:40] [User Authenticator #11/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
-[21:00:42] [Server thread/INFO]: Jaairoo09 joined the game
-[21:00:42] [Server thread/INFO]: Jaairoo09[/127.65.166.68:36353] logged in with entity id 32227 at ([world]38.05712553148206, 85.63040827256728, -478.69999998807907)
-[21:01:31] [User Authenticator #11/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
-[21:01:31] [Server thread/INFO]: Jaairoo09 lost connection: You logged in from another location
-[21:01:31] [Server thread/INFO]: Jaairoo09 left the game
-[21:01:32] [Server thread/INFO]: Jaairoo09 joined the game
-[21:01:32] [Server thread/INFO]: Jaairoo09[/127.65.166.68:59205] logged in with entity id 32514 at ([world]34.69718795661212, 83.5625, -477.25373318477585)
-[21:03:00] [Server thread/INFO]: Jaairoo09 lost connection: Disconnected
-[21:03:00] [Server thread/INFO]: Jaairoo09 left the game
-[21:03:14] [User Authenticator #12/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
-[21:03:15] [Server thread/INFO]: Jaairoo09 joined the game
-[21:03:15] [Server thread/INFO]: Jaairoo09[/127.65.166.68:57357] logged in with entity id 32784 at ([world]92.54762340519238, 87.0, -460.23379578071933)
-[21:10:02] [Server thread/INFO]: Jaairoo09 lost connection: Disconnected
-[21:10:02] [Server thread/INFO]: Jaairoo09 left the game
-[21:55:49] [User Authenticator #13/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
-[21:55:50] [Server thread/INFO]: Jaairoo09 joined the game
-[21:55:50] [Server thread/INFO]: Jaairoo09[/127.65.166.68:55357] logged in with entity id 33674 at ([world]90.30170986935472, 87.0, -459.4070959821327)
-[21:57:58] [Server thread/INFO]: Jaairoo09 lost connection: Disconnected
-[21:57:58] [Server thread/INFO]: Jaairoo09 left the game
-[22:07:04] [User Authenticator #14/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
-[22:07:08] [Server thread/INFO]: Jaairoo09 joined the game
-[22:07:08] [Server thread/INFO]: Jaairoo09[/127.65.166.68:35609] logged in with entity id 34057 at ([world]92.69999998807907, 87.0, -460.93007845471493)
-[22:07:36] [Server thread/INFO]: Villager Villager['Librarian'/34077, uuid='5f1b03ae-b561-4ed0-bbf2-6546d998ce1e', l='ServerLevel[world]', x=94.30, y=87.00, z=-460.50, cpos=[5, -29], tl=547, v=true] died, message: 'Librarian was blown up by Creeper'
-[22:09:25] [Server thread/INFO]: Villager Villager['Villager'/33628, uuid='3c92fd33-cd23-4025-8b6a-481d94b0be27', l='ServerLevel[world_nether]', x=24.46, y=43.00, z=-62.50, cpos=[1, -4], tl=620, v=true] died, message: 'Villager was slain by Zombie'
-[22:10:00] [Server thread/INFO]: Jaairoo09 lost connection: Disconnected
-[22:10:00] [Server thread/INFO]: Jaairoo09 left the game
+[02:58:02] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[02:58:02] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[02:58:02] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:58:03] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[02:58:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:58:12] [ServerMain/INFO]: Loaded 1407 recipes
+[02:58:12] [ServerMain/INFO]: Loaded 1520 advancements
+[02:58:12] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[02:58:13] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 455.6ms
+[02:58:13] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[02:58:13] [Server thread/INFO]: Loading properties
+[02:58:13] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[02:58:13] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:58:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:58:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:58:14] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[02:58:14] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[02:58:14] [Server thread/INFO]: Default game type: SURVIVAL
+[02:58:14] [Server thread/INFO]: Generating keypair
+[02:58:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:58:14] [Server thread/INFO]: Using epoll channel type
+[02:58:14] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:58:14] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[02:58:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:58:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:58:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:58:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:58:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:58:14] [Server thread/INFO]: Preparing level "world"
+[02:58:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:58:16] [Server thread/INFO]: Preparing spawn area: 0%
+[02:58:16] [Server thread/INFO]: Preparing spawn area: 0%
+[02:58:16] [Server thread/INFO]: Preparing spawn area: 2%
+[02:58:17] [Server thread/INFO]: Preparing spawn area: 12%
+[02:58:17] [Server thread/INFO]: Time elapsed: 2001 ms
+[02:58:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:58:17] [Server thread/INFO]: Preparing spawn area: 0%
+[02:58:18] [Server thread/INFO]: Preparing spawn area: 83%
+[02:58:18] [Server thread/INFO]: Time elapsed: 770 ms
+[02:58:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:58:18] [Server thread/INFO]: Preparing spawn area: 0%
+[02:58:18] [Server thread/INFO]: Time elapsed: 112 ms
+[02:58:18] [Server thread/INFO]: [spark] Starting background profiler...
+[02:58:19] [Server thread/INFO]: Done preparing level "world" (4.712s)
+[02:58:19] [Server thread/INFO]: Running delayed init tasks
+[02:58:19] [Server thread/INFO]: Done (18.560s)! For help, type "help"
+[03:04:59] [User Authenticator #0/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
+[03:05:04] [Server thread/INFO]: Jaairoo09 joined the game
+[03:05:04] [Server thread/INFO]: Jaairoo09[/127.65.166.68:52975] logged in with entity id 53 at ([world]49.011803314065816, 87.0, -472.61101737250675)
+[03:06:27] [Server thread/WARN]: Jaairoo09 moved too quickly! -7.7456216003552285,1.2491870787446828,-6.696549220295594
