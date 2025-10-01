@@ -301,3 +301,24 @@ io.netty.channel.StacklessClosedChannelException: null
 [04:35:44] [User Authenticator #20/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
 [04:35:47] [Server thread/INFO]: Jaairoo09 joined the game
 [04:35:47] [Server thread/INFO]: Jaairoo09[/127.65.166.68:38129] logged in with entity id 11729 at ([world_nether]-178.04223879745004, 47.496650679487594, -182.32007865645267)
+[04:36:48] [Server thread/INFO]: Jaairoo09 was kicked due to keepalive timeout!
+[04:36:48] [Server thread/INFO]: Jaairoo09 lost connection: Timed out
+[04:36:49] [Server thread/INFO]: Jaairoo09 left the game
+[04:38:02] [User Authenticator #21/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
+[04:38:03] [Server thread/INFO]: Jaairoo09 joined the game
+[04:38:03] [Server thread/INFO]: Jaairoo09[/127.65.166.68:33353] logged in with entity id 12210 at ([world_nether]-187.7532409921758, 47.0, -181.01083704668028)
+[04:38:25] [Server thread/WARN]: Jaairoo09 was kicked for floating too long!
+[04:38:25] [Server thread/INFO]: Jaairoo09 lost connection: Flying is not enabled on this server
+[04:38:25] [Server thread/INFO]: Jaairoo09 left the game
+[04:38:46] [User Authenticator #21/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
+[04:38:49] [Server thread/INFO]: Jaairoo09 joined the game
+[04:38:49] [Server thread/INFO]: Jaairoo09[/127.65.166.68:47671] logged in with entity id 12420 at ([world_nether]-175.00764746439998, 43.92293597758627, -161.15999128081395)
+[04:39:21] [Server thread/INFO]: Jaairoo09 was kicked due to keepalive timeout!
+[04:39:21] [Server thread/INFO]: Jaairoo09 lost connection: Timed out
+[04:39:21] [Server thread/INFO]: Jaairoo09 left the game
+[04:39:49] [User Authenticator #22/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
+[04:39:50] [Server thread/INFO]: Jaairoo09 joined the game
+[04:39:50] [Server thread/INFO]: Jaairoo09[/127.65.166.68:41063] logged in with entity id 12676 at ([world_nether]-175.00764746439998, 44.0, -161.15999128081395)
+[04:40:18] [Server thread/INFO]: Estebanjmc_10 has made the advancement [Best Friends Forever]
+[04:42:21] [Server thread/INFO]: Jaairoo09 has made the advancement [Stay Hydrated!]
+[04:45:58] [Server thread/INFO]: Estebanjmc_10 has made the advancement [Sneak 100]
