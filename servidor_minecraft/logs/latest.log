@@ -223,3 +223,43 @@ io.netty.channel.StacklessClosedChannelException: null
 [04:14:40] [Server thread/INFO]: Estebanjmc_10 left the game
 [04:14:40] [Server thread/INFO]: Estebanjmc_10 joined the game
 [04:14:40] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:42547] logged in with entity id 7046 at ([world]181.5998341535214, 45.0, -493.3813583409784)
+[04:17:46] [User Authenticator #15/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[04:17:46] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[04:17:46] [Server thread/INFO]: Estebanjmc_10 left the game
+[04:17:47] [Server thread/INFO]: Estebanjmc_10 joined the game
+[04:17:47] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:47923] logged in with entity id 7819 at ([world]98.02599262603019, 45.0, -508.33650690673244)
+[04:17:52] [User Authenticator #15/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[04:17:52] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[04:17:52] [Server thread/INFO]: Estebanjmc_10 left the game
+[04:17:53] [Server thread/INFO]: Estebanjmc_10 joined the game
+[04:17:53] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:58429] logged in with entity id 7836 at ([world]98.02599262603019, 45.0, -508.33650690673244)
+[04:18:37] [User Authenticator #15/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[04:18:37] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[04:18:37] [Server thread/INFO]: Estebanjmc_10 left the game
+[04:18:38] [Server thread/INFO]: Estebanjmc_10 joined the game
+[04:18:38] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:38955] logged in with entity id 8021 at ([world]112.05470034253747, 45.0, -516.0106518385916)
+[04:18:44] [User Authenticator #15/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[04:18:44] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[04:18:44] [Server thread/INFO]: Estebanjmc_10 left the game
+[04:18:45] [Server thread/INFO]: Estebanjmc_10 joined the game
+[04:18:45] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:48969] logged in with entity id 8045 at ([world]112.05470034253747, 45.0, -516.0106518385916)
+[04:18:51] [User Authenticator #15/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[04:18:51] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[04:18:51] [Server thread/INFO]: Estebanjmc_10 left the game
+[04:18:52] [Server thread/INFO]: Estebanjmc_10 joined the game
+[04:18:52] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:54425] logged in with entity id 8064 at ([world]112.05470034253747, 45.0, -516.0106518385916)
+[04:21:26] [User Authenticator #16/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[04:21:26] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[04:21:26] [Server thread/INFO]: Estebanjmc_10 left the game
+[04:21:27] [Server thread/INFO]: Estebanjmc_10 joined the game
+[04:21:27] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:33591] logged in with entity id 8772 at ([world]159.56705736928913, 57.0, -529.1389618628976)
+[04:25:09] [Server thread/WARN]: Jaairoo09 moved too quickly! 7.818381378293367,-3.6781340242841196,5.306680332834645
+[04:25:13] [Server thread/WARN]: Jaairoo09 was kicked for floating too long!
+[04:25:13] [Server thread/INFO]: Jaairoo09 lost connection: Flying is not enabled on this server
+[04:25:13] [Server thread/INFO]: Jaairoo09 left the game
+[04:25:19] [User Authenticator #17/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
+[04:25:20] [Server thread/INFO]: Jaairoo09 joined the game
+[04:25:20] [Server thread/INFO]: Jaairoo09[/127.65.166.68:51121] logged in with entity id 9679 at ([world_nether]-168.538268139251, 34.15138796356239, -64.10665995380121)
+[04:25:26] [Server thread/WARN]: Jaairoo09 moved too quickly! 10.788344320655028,-0.7531999805212024,7.102921548569277
+[04:25:29] [Server thread/INFO]: Jaairoo09 has made the advancement [Oh Shiny]
+[04:26:13] [Server thread/INFO]: Jaairoo09 has made the advancement [Who is Cutting Onions?]
