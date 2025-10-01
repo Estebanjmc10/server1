@@ -263,3 +263,41 @@ io.netty.channel.StacklessClosedChannelException: null
 [04:25:26] [Server thread/WARN]: Jaairoo09 moved too quickly! 10.788344320655028,-0.7531999805212024,7.102921548569277
 [04:25:29] [Server thread/INFO]: Jaairoo09 has made the advancement [Oh Shiny]
 [04:26:13] [Server thread/INFO]: Jaairoo09 has made the advancement [Who is Cutting Onions?]
+[04:26:38] [User Authenticator #18/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[04:26:38] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[04:26:38] [Server thread/INFO]: Estebanjmc_10 left the game
+[04:26:39] [Server thread/INFO]: Estebanjmc_10 joined the game
+[04:26:39] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:54867] logged in with entity id 9951 at ([world]168.30000001192093, -12.0, -535.3000000119209)
+[04:26:50] [User Authenticator #18/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[04:26:50] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[04:26:50] [Server thread/INFO]: Estebanjmc_10 left the game
+[04:26:51] [Server thread/INFO]: Estebanjmc_10 joined the game
+[04:26:51] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:34719] logged in with entity id 9995 at ([world]168.30000001192093, -12.0, -535.3000000119209)
+[04:27:52] [User Authenticator #19/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[04:27:52] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[04:27:52] [Server thread/INFO]: Estebanjmc_10 left the game
+[04:27:53] [Server thread/INFO]: Estebanjmc_10 joined the game
+[04:27:53] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:55155] logged in with entity id 10210 at ([world]167.31762956300992, -23.0, -545.3828864248721)
+[04:28:51] [User Authenticator #19/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[04:28:51] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[04:28:51] [Server thread/INFO]: Estebanjmc_10 left the game
+[04:28:52] [Server thread/INFO]: Estebanjmc_10 joined the game
+[04:28:52] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:59739] logged in with entity id 10398 at ([world]176.24535552804784, -30.0, -545.3000000119209)
+[04:28:58] [User Authenticator #19/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[04:28:58] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[04:28:58] [Server thread/INFO]: Estebanjmc_10 left the game
+[04:28:59] [Server thread/INFO]: Estebanjmc_10 joined the game
+[04:28:59] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:47953] logged in with entity id 10422 at ([world]176.24535552804784, -30.0, -545.3000000119209)
+[04:29:09] [User Authenticator #19/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[04:29:09] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[04:29:09] [Server thread/INFO]: Estebanjmc_10 left the game
+[04:29:10] [Server thread/INFO]: Estebanjmc_10 joined the game
+[04:29:10] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:35781] logged in with entity id 10460 at ([world]176.24535552804784, -30.0, -545.3000000119209)
+[04:34:19] [Server thread/WARN]: Jaairoo09 was kicked for floating too long!
+[04:34:19] [Server thread/INFO]: Jaairoo09 lost connection: Flying is not enabled on this server
+[04:34:19] [Server thread/INFO]: Jaairoo09 left the game
+[04:34:55] [User Authenticator #20/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
+[04:35:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@505faca7[id=4e3c4d8a-04ca-3a62-afce-477730d321fe,name=Jaairoo09,properties={}] lost connection: Timed out
+[04:35:44] [User Authenticator #20/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
+[04:35:47] [Server thread/INFO]: Jaairoo09 joined the game
+[04:35:47] [Server thread/INFO]: Jaairoo09[/127.65.166.68:38129] logged in with entity id 11729 at ([world_nether]-178.04223879745004, 47.496650679487594, -182.32007865645267)
