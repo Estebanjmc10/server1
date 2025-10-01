@@ -136,3 +136,63 @@ io.netty.channel.StacklessClosedChannelException: null
 [03:45:44] [Server thread/INFO]: Estebanjmc_10 left the game
 [03:45:45] [Server thread/INFO]: Estebanjmc_10 joined the game
 [03:45:45] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:34117] logged in with entity id 2605 at ([world]88.89574197452589, 87.0, -459.1605927131106)
+[03:47:26] [Server thread/INFO]: Estebanjmc_10 was kicked due to keepalive timeout!
+[03:47:26] [Server thread/INFO]: Estebanjmc_10 lost connection: Timed out
+[03:47:26] [Server thread/INFO]: Estebanjmc_10 left the game
+[03:47:35] [User Authenticator #6/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[03:47:36] [Server thread/INFO]: Estebanjmc_10 joined the game
+[03:47:36] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:35715] logged in with entity id 2844 at ([world]89.9086266004985, 87.0, -463.4876236728795)
+[03:47:44] [User Authenticator #6/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[03:47:44] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[03:47:44] [Server thread/INFO]: Estebanjmc_10 left the game
+[03:47:45] [Server thread/INFO]: Estebanjmc_10 joined the game
+[03:47:45] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:33317] logged in with entity id 2864 at ([world]89.9086266004985, 87.0, -463.4876236728795)
+[03:48:21] [User Authenticator #6/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[03:48:21] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[03:48:21] [Server thread/INFO]: Estebanjmc_10 left the game
+[03:48:22] [Server thread/INFO]: Estebanjmc_10 joined the game
+[03:48:22] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:42661] logged in with entity id 2951 at ([world]90.52551278960239, 87.0, -463.31809222026266)
+[03:53:00] [User Authenticator #7/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[03:53:00] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[03:53:00] [Server thread/INFO]: Estebanjmc_10 left the game
+[03:53:02] [Server thread/INFO]: Estebanjmc_10 joined the game
+[03:53:02] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:60297] logged in with entity id 3515 at ([world]68.18727520623818, 87.0, -461.0973558836745)
+[03:53:10] [User Authenticator #7/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[03:53:10] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[03:53:10] [Server thread/INFO]: Estebanjmc_10 left the game
+[03:53:11] [Server thread/INFO]: Estebanjmc_10 joined the game
+[03:53:11] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:33495] logged in with entity id 3544 at ([world]68.18727520623818, 87.0, -461.0973558836745)
+[03:54:25] [User Authenticator #8/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[03:54:25] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[03:54:25] [Server thread/INFO]: Estebanjmc_10 left the game
+[03:54:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@67ddd10f[id=55fbccf3-bab4-305b-91a5-01469fb9fa9b,name=Estebanjmc_10,properties={}] lost connection: Timed out
+[03:54:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@67ddd10f[id=55fbccf3-bab4-305b-91a5-01469fb9fa9b,name=Estebanjmc_10,properties={}] lost connection: Timed out
+[03:55:15] [User Authenticator #8/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[03:55:16] [Server thread/INFO]: Estebanjmc_10 joined the game
+[03:55:16] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:57325] logged in with entity id 3795 at ([world]68.64801568159926, 87.0, -467.0243643218548)
+[03:56:46] [Server thread/INFO]: Jaairoo09 was kicked due to keepalive timeout!
+[03:56:46] [Server thread/INFO]: Jaairoo09 lost connection: Timed out
+[03:56:46] [Server thread/INFO]: Jaairoo09 left the game
+[03:57:04] [User Authenticator #9/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
+[03:57:07] [Server thread/INFO]: Jaairoo09 joined the game
+[03:57:07] [Server thread/INFO]: Jaairoo09[/127.65.166.68:47053] logged in with entity id 4034 at ([world]91.01919758411512, 87.0, -466.54616135565016)
+[03:57:30] [Server thread/WARN]: Jaairoo09 moved too quickly! -11.158537838969494,-2.211924088213692,-2.2596698968097826
+[04:00:39] [Server thread/INFO]: Estebanjmc_10 lost connection: Timed out
+[04:00:39] [Server thread/INFO]: Estebanjmc_10 left the game
+[04:00:41] [User Authenticator #10/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[04:00:42] [Server thread/INFO]: Estebanjmc_10 joined the game
+[04:00:42] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:53771] logged in with entity id 4594 at ([world]123.57820472226247, 98.0, -493.7103245736876)
+[04:04:20] [Server thread/INFO]: Estebanjmc_10 was kicked due to keepalive timeout!
+[04:04:20] [Server thread/INFO]: Estebanjmc_10 lost connection: Timed out
+[04:04:20] [Server thread/INFO]: Estebanjmc_10 left the game
+[04:04:21] [User Authenticator #11/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[04:04:23] [Server thread/INFO]: Estebanjmc_10 joined the game
+[04:04:23] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:60713] logged in with entity id 5200 at ([world]146.69999998807907, 72.0, -523.3178126232457)
+[04:05:05] [User Authenticator #11/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[04:05:05] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[04:05:05] [Server thread/INFO]: Estebanjmc_10 left the game
+[04:05:06] [Server thread/INFO]: Estebanjmc_10 joined the game
+[04:05:06] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:39189] logged in with entity id 5298 at ([world]148.30000001192093, 70.0, -523.589967816222)
+[04:05:36] [Server thread/INFO]: Estebanjmc_10 was kicked due to keepalive timeout!
+[04:05:36] [Server thread/INFO]: Estebanjmc_10 lost connection: Timed out
+[04:05:36] [Server thread/INFO]: Estebanjmc_10 left the game
