@@ -97,3 +97,42 @@ io.netty.channel.StacklessClosedChannelException: null
 [03:31:46] [User Authenticator #1/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
 [03:31:47] [Server thread/INFO]: Estebanjmc_10 joined the game
 [03:31:47] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:36991] logged in with entity id 973 at ([world]34.96009588206608, 83.0, -477.6881807786383)
+[03:36:06] [Server thread/INFO]: Jaairoo09 was kicked due to keepalive timeout!
+[03:36:06] [Server thread/INFO]: Jaairoo09 lost connection: Timed out
+[03:36:06] [Server thread/INFO]: Jaairoo09 left the game
+[03:36:13] [User Authenticator #2/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
+[03:36:16] [Server thread/INFO]: Jaairoo09 joined the game
+[03:36:16] [Server thread/INFO]: Jaairoo09[/127.65.166.68:44959] logged in with entity id 1487 at ([world]93.69999998807907, 88.1875, -459.0521217154093)
+[03:36:17] [User Authenticator #2/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[03:36:18] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[03:36:18] [Server thread/INFO]: Estebanjmc_10 left the game
+[03:36:19] [Server thread/INFO]: Estebanjmc_10 joined the game
+[03:36:19] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:50885] logged in with entity id 1517 at ([world]63.35406866080306, 87.0, -463.21680507789233)
+[03:36:39] [User Authenticator #2/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[03:36:39] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[03:36:39] [Server thread/INFO]: Estebanjmc_10 left the game
+[03:36:40] [Server thread/INFO]: Estebanjmc_10 joined the game
+[03:36:40] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:42147] logged in with entity id 1557 at ([world]63.35406866080306, 87.0, -463.21680507789233)
+[03:37:34] [Server thread/INFO]: Jaairoo09 was kicked due to keepalive timeout!
+[03:37:34] [Server thread/INFO]: Jaairoo09 lost connection: Timed out
+[03:37:34] [Server thread/INFO]: Jaairoo09 left the game
+[03:38:36] [User Authenticator #3/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
+[03:38:37] [Server thread/INFO]: Jaairoo09 joined the game
+[03:38:37] [Server thread/INFO]: Jaairoo09[/127.65.166.68:37707] logged in with entity id 1767 at ([world]83.42534373395796, 88.00435224062119, -460.25213612717533)
+[03:38:57] [Server thread/WARN]: Jaairoo09 moved too quickly! -10.179645021527065,1.2491870787446828,-0.9312063531879176
+[03:39:01] [Server thread/WARN]: Jaairoo09 was kicked for floating too long!
+[03:39:01] [Server thread/INFO]: Jaairoo09 lost connection: Flying is not enabled on this server
+[03:39:01] [Server thread/INFO]: Jaairoo09 left the game
+[03:39:42] [User Authenticator #4/INFO]: UUID of player Jaairoo09 is 4e3c4d8a-04ca-3a62-afce-477730d321fe
+[03:39:43] [Server thread/INFO]: Jaairoo09 joined the game
+[03:39:43] [Server thread/INFO]: Jaairoo09[/127.65.166.68:42031] logged in with entity id 1869 at ([world]80.33274022695153, 87.5144004267756, -461.2257680619899)
+[03:45:07] [User Authenticator #5/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[03:45:07] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[03:45:07] [Server thread/INFO]: Estebanjmc_10 left the game
+[03:45:08] [Server thread/INFO]: Estebanjmc_10 joined the game
+[03:45:08] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:49649] logged in with entity id 2533 at ([world]73.31047732077103, 87.0, -453.6108331477931)
+[03:45:44] [User Authenticator #5/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[03:45:44] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[03:45:44] [Server thread/INFO]: Estebanjmc_10 left the game
+[03:45:45] [Server thread/INFO]: Estebanjmc_10 joined the game
+[03:45:45] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:34117] logged in with entity id 2605 at ([world]88.89574197452589, 87.0, -459.1605927131106)
