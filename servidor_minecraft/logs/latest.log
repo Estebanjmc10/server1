@@ -333,3 +333,8 @@ io.netty.channel.StacklessClosedChannelException: null
 [04:51:09] [Server thread/WARN]: Jaairoo09 moved too quickly! -0.09696913039337574,-10.500199103803535,0.0
 [04:51:10] [Server thread/WARN]: Jaairoo09 moved too quickly! -3.655894473523375,-9.203014642478706,-2.2286164912765116
 [04:51:12] [Server thread/INFO]: Jaairoo09 was obliterated by a sonically-charged shriek
+[05:03:55] [User Authenticator #24/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[05:03:55] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[05:03:55] [Server thread/INFO]: Estebanjmc_10 left the game
+[05:03:56] [Server thread/INFO]: Estebanjmc_10 joined the game
+[05:03:56] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:54785] logged in with entity id 16137 at ([world]251.9777006789873, -49.0, -597.2187796384752)
