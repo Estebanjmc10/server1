@@ -338,3 +338,17 @@ io.netty.channel.StacklessClosedChannelException: null
 [05:03:55] [Server thread/INFO]: Estebanjmc_10 left the game
 [05:03:56] [Server thread/INFO]: Estebanjmc_10 joined the game
 [05:03:56] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:54785] logged in with entity id 16137 at ([world]251.9777006789873, -49.0, -597.2187796384752)
+[05:12:48] [User Authenticator #25/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[05:12:48] [Server thread/INFO]: Estebanjmc_10 lost connection: You logged in from another location
+[05:12:48] [Server thread/INFO]: Estebanjmc_10 left the game
+[05:12:49] [Server thread/INFO]: Estebanjmc_10 joined the game
+[05:12:49] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:39587] logged in with entity id 17366 at ([world]206.55258943935158, -51.0, -523.183036721273)
+[05:14:03] [Server thread/INFO]: Estebanjmc_10 was kicked due to keepalive timeout!
+[05:14:03] [Server thread/INFO]: Estebanjmc_10 lost connection: Timed out
+[05:14:03] [Server thread/INFO]: Estebanjmc_10 left the game
+[05:14:31] [User Authenticator #26/INFO]: UUID of player Estebanjmc_10 is 55fbccf3-bab4-305b-91a5-01469fb9fa9b
+[05:14:33] [Server thread/INFO]: Estebanjmc_10 joined the game
+[05:14:33] [Server thread/INFO]: Estebanjmc_10[/127.65.166.68:42025] logged in with entity id 17523 at ([world]181.09436616937586, -44.0, -541.8595209486531)
+[05:15:04] [Server thread/INFO]: Estebanjmc_10 was slain by Warden
+[05:16:01] [Server thread/WARN]: Jaairoo09 moved too quickly! -9.091227593067572,4.751864001409055,-3.1984649268443945
+[05:16:47] [Async Chat Thread - #1/INFO]: [Not Secure] <Jaairoo09> 156 -549
